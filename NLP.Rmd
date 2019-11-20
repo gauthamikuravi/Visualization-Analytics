@@ -1,6 +1,6 @@
 ---
 title: "text analytics"
-author: "Sterling"
+author: "Gauthami"
 date: "11/5/2019"
 output: html_document
 ---
