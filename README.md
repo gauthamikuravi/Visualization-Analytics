@@ -1,6 +1,7 @@
 
 Goal:
-NLP project to find the reviews of the Users by text mining.Most frequently used words to  classify the best airport.
+NLP project to find the reviews of the Users by text mining.Most frequently used words to  classify the best airport.Used R code to get the results.
+
 
 DATASET:
 Skytrax offers their own ranking of the world’s best airports based on a “comprehensive” assessment that goes beyond user reviews, 
