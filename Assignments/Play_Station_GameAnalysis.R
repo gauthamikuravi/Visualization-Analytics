@@ -36,8 +36,7 @@ GenreSale = ten_years %>%
                        JapanSales = sum(JP_Sales)) 
 
 GenreSale = melt(GenreSale,na.rm = FALSE,)
-names(GenreSale) = c('Genre','SaleType','Sale')
-
+names(GenreSale) = c('Genre','SaleType','sale')
  GenreSale
 
 write_csv(GenreSale, path = "STAT515/GenreSale.csv")
