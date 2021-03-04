@@ -1,5 +1,9 @@
 ### Visualization Analytics
 
+<p align="center">
+  <img width="250" src="." alt="logo" />
+</p>
+
 ### Statistics and Machine Learning using R 
 Linear Regression
 Artificial Neural networks
