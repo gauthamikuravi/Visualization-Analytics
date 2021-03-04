@@ -16,6 +16,6 @@ Skytrax offers their own ranking of the world’s best airports based on a “co
 decided it would be interesting to take a deeper look at the ratings users input on the website.
 By ranking airports based on “overall rating.”  Reviewers are asked to rank airports on a one to ten scale.
 <p align="center">
-  <img width="250" src="./Image.PNG" alt="logo" />
+  <img width="500" src="./Image.PNG" alt="logo" />
 </p>
 
