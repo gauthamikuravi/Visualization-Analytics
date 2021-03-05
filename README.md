@@ -41,14 +41,9 @@ Below is the gist of all the insights gathered from the dataset:
 ## **Reference:**
 https://www.kaggle.com/gregorut/videogamesales
 
-### Statistics and Machine Learning using R 
-Linear Regression
-Artificial Neural networks
-Classification Techniques
-NLP
-Logistic Regression
 
 
+###########################################################################################################################
 
 NLP project to find the reviews of the Users by text mining.Most frequently used words to  classify the best airport.Used R code to get the results.
 ##  DATASET:
