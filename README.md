@@ -1,4 +1,6 @@
-#  Project -1 Visualization Analytics - Video Games Sales By Genre
+#  Project -1 Visualization Analytics
+
+# [Video Games Sales By Genre](https://github.com/gauthamikuravi/Visualization-Analytics/blob/master/Assignments/Play_Station_GameAnalysis.R): 
 
 ## **Purpose:**
 **To find the sales of the 3 Top  Companies in different countries . who is the biggest player in Gaming Industry and why?** 
