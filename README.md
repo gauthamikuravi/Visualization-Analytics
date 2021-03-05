@@ -1,6 +1,6 @@
 # Visualization Analytics
 
-## Project -1  [Video Games Sales By Genre](https://github.com/gauthamikuravi/Visualization-Analytics/blob/master/Assignments/Play_Station_GameAnalysis.R): 
+### [Project -1--Video Games Sales By Genre](https://github.com/gauthamikuravi/Visualization-Analytics/blob/master/Assignments/Play_Station_GameAnalysis.R): 
 
 ## **Purpose:**
 **To find the sales of the 3 Top  Companies in different countries . who is the biggest player in Gaming Industry and why?** 
@@ -22,7 +22,7 @@
 
 Above graph shows sales data of three companies over the years. Sony and Nintendo are Japanese multinational companies with its headquarters in Tokyo,Japan and  Microsoft  is US multinational company. While Japan is a big market for video games, Microsoft doesn’t rely on Japanese consumers. Sony has many of its games in both Action and sports Genre with its games based on culture aspects. 
 
-## **Grouped the Console based games based on their Vendors:**
+### **Grouped the Console based games based on their Vendors:**
 
 - [x] Sony and Microsoft seems dominating in North America. Nintendo and Sony   seems dominating in Japan  in Videogame Industry. Also Sony being major seller in EU region.  We could say Action and sports being top  most played games by the consumers in all the many  regions, Sony and Nintendo has released many games on sports and action, which made them top  sellers in Video Gaming Industry
 <p align="center">
