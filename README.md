@@ -24,6 +24,16 @@ Above graph shows sales data of three companies over the years. Sony and Nintend
   <img width="400" src="./Images/Picture3.png" alt="logo" />
 </p>
 
+
+**Conclusion:**
+Below is the gist of all the insights gathered from the dataset:
+- [x] Of the three major video game console makers — Sony, Microsoft, and Nintendo — Sony is in a comfortable lead in all three regions  because Percentage  of the games sold  by Sony are  Action and sports  based games. Also Sony is known for its  quality music in action sports. 
+- [x] Electronic Arts is the top gaming release platform.
+- [x] Sales seems to be in the downward trend after 2008 and the trend is continuing till 2015
+- [x] 19.9 % of the total games released were from Action genre followed by Sports contributing to 14.12% of the games.
+- [x] The dominance of the Action games in the year 2012 where other genre releases have shown a downward trend compared to previous year ,Action games seemes to have a spike from previous year.
+- [x] Sports is dominating the Global Sales.Individually , it has minted out higher in Europe,and North America.In Japan,Role Playing games have more value for money.While,racing games comes second in Europe,in North America,Platform games occuply the second slot.
+
 ### Statistics and Machine Learning using R 
 Linear Regression
 Artificial Neural networks
