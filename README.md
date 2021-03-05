@@ -9,7 +9,7 @@
 
 - [x] Number of Games Released from 1978 to 2016 shows that Count Increased after the year 2000 with the sixth generation of consoles emerged.   During this period,console based games were released  became major aspects of gaming culture. 
 <p align="center">
-  <img width="400" src="./Images/Picture2.png" alt="logo" />
+  <img width="400" src="./Images/Picture2.jpg" alt="logo" />
 </p>
 - [x] From 2010,there is decrease in trend because of challenge and massive expense of creating consoles that were graphically superior to the, then, current generation, with Sony and Microsoft still looking to recoup development costs on their current consoles and the failure of content creation tools to keep up with the increased demands placed upon the people creating the games. Action and Sports are more dominating genre in Video games.
 
