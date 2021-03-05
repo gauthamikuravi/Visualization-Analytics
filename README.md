@@ -11,7 +11,15 @@ From 2010,there is decrease in trend because of challenge and massive expense of
 
 <p align="center">
   <img width="400" src="./Images/Picture1.png" alt="logo" />
-" alt="logo" />
+</p>
+
+
+Above graph shows sales data of three companies over the years. Sony and Nintendo are Japanese multinational companies with its headquarters in Tokyo,Japan and  Microsoft  is US multinational company. While Japan is a big market for video games, Microsoft doesn’t rely on Japanese consumers. Sony has many of its games in both Action and sports Genre with its games based on culture aspects. 
+
+Grouped the Console based games based on their Vendors:
+Sony and Microsoft seems dominating in North America. Nintendo and Sony   seems dominating in Japan  in Videogame Industry. Also Sony being major seller in EU region.  We could say Action and sports being top  most played games by the consumers in all the many  regions, Sony and Nintendo has released many games on sports and action, which made them top  sellers in Video Gaming Industry
+<p align="center">
+  <img width="400" src="./Images/Picture3.png" alt="logo" />
 </p>
 
 ### Statistics and Machine Learning using R 
