@@ -10,7 +10,8 @@ During this period,console based games were released  became major aspects of ga
 From 2010,there is decrease in trend because of challenge and massive expense of creating consoles that were graphically superior to the, then, current generation, with Sony and Microsoft still looking to recoup development costs on their current consoles and the failure of content creation tools to keep up with the increased demands placed upon the people creating the games. Action and Sports are more dominating genre in Video games.
 
 <p align="center">
-  <img width="500" src="./" alt="logo" />
+  <img width="500" src="./Images/Picture1.png
+" alt="logo" />
 </p>
 
 ### Statistics and Machine Learning using R 
