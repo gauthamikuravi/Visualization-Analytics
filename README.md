@@ -1,4 +1,4 @@
-# Visualization Analytics - Video Games Sales By Genre
+#  Project -1 Visualization Analytics - Video Games Sales By Genre
 
 ## **Purpose:**
 **To find the sales of the 3 Top  Companies in different countries . who is the biggest player in Gaming Industry and why?** 
@@ -44,9 +44,9 @@ https://www.kaggle.com/gregorut/videogamesales
 
 
 ###########################################################################################################################
-
+# Project -2 Text Mining with Skytrax Dataset 
 NLP project to find the reviews of the Users by text mining.Most frequently used words to  classify the best airport.Used R code to get the results.
-##  DATASET:
+DATASET:
 Skytrax offers their own ranking of the world’s best airports based on a “comprehensive” assessment that goes beyond user reviews, 
 decided it would be interesting to take a deeper look at the ratings users input on the website.
 By ranking airports based on “overall rating.”  Reviewers are asked to rank airports on a one to ten scale.
