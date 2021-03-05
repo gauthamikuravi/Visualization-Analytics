@@ -34,6 +34,10 @@ Below is the gist of all the insights gathered from the dataset:
 - [x] The dominance of the Action games in the year 2012 where other genre releases have shown a downward trend compared to previous year ,Action games seemes to have a spike from previous year.
 - [x] Sports is dominating the Global Sales.Individually , it has minted out higher in Europe,and North America.In Japan,Role Playing games have more value for money.While,racing games comes second in Europe,in North America,Platform games occuply the second slot.
 
+
+## **Reference:**
+https://www.kaggle.com/gregorut/videogamesales
+
 ### Statistics and Machine Learning using R 
 Linear Regression
 Artificial Neural networks
