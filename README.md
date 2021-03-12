@@ -1,15 +1,16 @@
 # Visualization Analytics
 
-### [Project -1--Video Games Sales By Genre](https://github.com/gauthamikuravi/Visualization-Analytics/blob/master/Assignments/Play_Station_GameAnalysis.R): 
+#### [Project -1--Video Games Sales By Genre](https://github.com/gauthamikuravi/Visualization-Analytics/blob/master/Assignments/Play_Station_GameAnalysis.R): 
 
-## **Purpose:**
+### **Purpose:**
 **To find the sales of the 3 Top  Companies in different countries . who is the biggest player in Gaming Industry and why?** 
 - [x] The project consists of One dataset and its respective visualizations.
 
-**Code**
+### **Code**
+
 [Data-Analysis](https://github.com/gauthamikuravi/Visualization-Analytics/blob/master/Assignments/Play_Station_GameAnalysis.R)
 
-## **Description of Dataset:**
+### **Description of Dataset:**
 
 - [x] Number of Games Released from 1978 to 2016 shows that Count Increased after the year 2000 with the sixth generation of consoles emerged.   During this period,console based games were released  became major aspects of gaming culture. 
 <p align="center">
