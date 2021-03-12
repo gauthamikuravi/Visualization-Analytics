@@ -6,6 +6,8 @@
 **To find the sales of the 3 Top  Companies in different countries . who is the biggest player in Gaming Industry and why?** 
 - [x] The project consists of One dataset and its respective visualizations.
 
+**Code**
+[Data-Analysis](https://github.com/gauthamikuravi/Visualization-Analytics/blob/master/Assignments/Play_Station_GameAnalysis.R)
 
 ## **Description of Dataset:**
 
